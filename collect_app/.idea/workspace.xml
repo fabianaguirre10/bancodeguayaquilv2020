@@ -1,0 +1,1717 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fe0c8bf-7028-4994-90c4-c2045de15f47" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.circleci/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.github/CODE_OF_CONDUCT.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.github/ISSUE_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.github/PULL_REQUEST_TEMPLATE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.github/TESTING_RESULT_TEMPLATES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.hgtags" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/androidTest/java/ec/com/mardis/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/ec/com/mardis/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/test/java/ec/com/mardis/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/androidTest/java/ec/com/mardis/myapplication/ExampleInstrumentedTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/java/ec/com/mardis/myapplication/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/layout/content_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/menu/menu_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/app/src/test/java/ec/com/mardis/myapplication/ExampleUnitTest.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MyApplication2/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../codecov.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/caches/gradle_models.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Administrador1__gradle_wrapper_dists_gradle_5_1_1_all_caches_transforms_2_files_2_1_df0296773a1da0f8e69950794fb559b4_jars_classes_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___G__bancoguayaquil_collect_1_22_4_collect_app_libs_httpclientandroidlib_4_5_2_2_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_work_work_firebase_1_0_0_alpha10_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_work_work_runtime_1_0_0_alpha10_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_arch_work_work_testing_1_0_0_alpha10_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_activity_activity_1_0_0_alpha06_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_annotation_annotation_1_1_0_beta01_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_1_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_appcompat_appcompat_resources_1_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_common_2_1_0_alpha01_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_arch_core_core_runtime_2_1_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_asynclayoutinflater_asynclayoutinflater_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_browser_browser_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cardview_cardview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_collection_collection_1_1_0_beta01_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_concurrent_concurrent_futures_1_0_0_alpha02_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_coordinatorlayout_coordinatorlayout_1_1_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_core_core_1_1_0_alpha05_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_customview_customview_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_documentfile_documentfile_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_exifinterface_exifinterface_1_1_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_fragment_fragment_1_1_0_alpha06_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_ui_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_core_utils_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v13_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_legacy_legacy_support_v4_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_common_2_1_0_alpha04_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_extensions_2_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_2_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_livedata_core_2_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_process_2_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_service_2_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_alpha04_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_loader_loader_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_localbroadcastmanager_localbroadcastmanager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_media_media_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_2_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_multidex_multidex_instrumentation_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_print_print_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_recyclerview_recyclerview_1_1_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_common_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_room_room_runtime_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_savedstate_savedstate_1_0_0_alpha02_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_slidingpanelayout_slidingpanelayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_sqlite_sqlite_framework_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_swiperefreshlayout_swiperefreshlayout_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_core_1_2_0_alpha03_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_core_3_2_0_alpha03_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_alpha03_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_espresso_espresso_intents_3_2_0_alpha03_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_alpha03_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_2_0_alpha03_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_alpha03_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_transition_transition_1_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_1_1_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_alpha01_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_alpha02_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__backport_util_concurrent_backport_util_concurrent_3_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__bikramsambat_bikram_sambat_1_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__classworlds_classworlds_1_1_alpha_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_almworks_sqlite4java_sqlite4java_0_282_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_arcao_slf4j_timber_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_burgstaller_okhttp_digest_1_18_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_answers_1_4_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_beta_1_2_7_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_2_9_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_crashlytics_sdk_android_crashlytics_core_2_6_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_evernote_android_job_1_2_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_firebase_firebase_jobdispatcher_0_8_5_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_github_chanmratekoko_myanmar_calendar_1_0_6_RC3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_apps_common_testing_accessibility_framework_accessibility_test_framework_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_ads_identifier_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_analytics_impl_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_api_phone_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_auth_base_15_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_base_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_basement_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_location_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_maps_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_measurement_base_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_places_placereport_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_stats_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tagmanager_v4_impl_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_gms_play_services_tasks_15_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_android_material_material_1_1_0_alpha05_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_client_google_api_client_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_api_client_google_api_client_android_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_apis_google_api_services_drive_v3_rev64_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_apis_google_api_services_sheets_v4_rev463_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_annotations_3_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_findbugs_jsr305_1_3_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_code_gson_gson_2_8_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_2_16_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_2_16_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_dagger_dagger_android_support_2_16_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_errorprone_error_prone_annotations_2_2_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_analytics_impl_16_1_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_common_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_core_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_iid_interop_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_16_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_firebase_firebase_measurement_connector_impl_16_0_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_failureaccess_1_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_guava_27_1_android_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_guava_listenablefuture_9999_0_empty_to_avoid_conflict_with_guava_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_http_client_google_http_client_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_http_client_google_http_client_android_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_http_client_google_http_client_jackson2_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_j2objc_j2objc_annotations_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_oauth_client_google_oauth_client_1_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_protobuf_protobuf_java_2_6_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_google_zxing_core_3_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_ibm_icu_icu4j_53_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_android_repackaged_dalvik_dx_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_android_repackaged_libcore_dex_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_10_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_annotations_10_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_butterknife_runtime_10_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxbinding2_rxbinding_2_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_rxrelay2_rxrelay_2_0_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jakewharton_timber_timber_4_7_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_journeyapps_zxing_android_embedded_3_5_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_jsibbold_zoomage_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_karumi_dexter_5_0_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mapbox_mapboxsdk_mapbox_android_core_1_2_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mapbox_mapboxsdk_mapbox_android_gestures_0_4_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mapbox_mapboxsdk_mapbox_android_plugin_annotation_v7_0_6_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mapbox_mapboxsdk_mapbox_android_sdk_7_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mapbox_mapboxsdk_mapbox_android_telemetry_4_3_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_mapbox_mapboxsdk_mapbox_sdk_geojson_4_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_rarepebble_colorpicker_2_3_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_haha_haha_2_0_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_javawriter_2_1_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_analyzer_1_5_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_1_5_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_android_no_op_1_5_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_leakcanary_leakcanary_watcher_1_5_4_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_mockwebserver_3_11_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okhttp3_okhttp_3_12_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_squareup_okio_okio_1_15_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_trello_rxlifecycle2_rxlifecycle_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_trello_rxlifecycle2_rxlifecycle_android_2_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__com_trello_rxlifecycle2_rxlifecycle_android_lifecycle_2_2_1_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_codec_commons_codec_1_9_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_io_commons_io_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__commons_logging_commons_logging_1_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_fabric_sdk_android_fabric_1_4_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxandroid_2_0_2_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__io_reactivex_rxjava2_rxjava_2_1_10_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_inject_javax_inject_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__joda_time_joda_time_2_9_9_no_tzdb_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__junit_junit_4_12_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__nekohtml_nekohtml_1_9_6_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__nekohtml_xercesMinimal_1_9_6_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_8_21_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_1_9_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_8_21_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_agent_1_9_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_bytebuddy_byte_buddy_android_1_8_21_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_danlew_android_joda_2_9_9_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_jcip_jcip_annotations_1_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__net_sf_opencsv_opencsv_2_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_ant_ant_launcher_1_8_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpclient_4_5_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_httpcomponents_httpcore_4_4_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_ant_tasks_2_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_artifact_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_artifact_manager_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_error_diagnostics_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_model_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_plugin_registry_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_profile_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_project_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_repository_metadata_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_maven_settings_2_2_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_file_1_0_beta_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_http_lightweight_1_0_beta_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_http_shared_1_0_beta_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_maven_wagon_wagon_provider_api_1_0_beta_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_bouncycastle_bcprov_jdk15on_1_52_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_checkerframework_checker_compat_qual_2_5_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_mojo_animal_sniffer_annotations_1_17_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_plexus_plexus_container_default_1_0_alpha_9_stable_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_plexus_plexus_interpolation_1_11_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_codehaus_plexus_plexus_utils_1_5_15_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_all_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_javassist_javassist_3_24_0_GA_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jetbrains_annotations_16_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_android_2_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_22_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_mockito_mockito_core_2_23_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_2_6_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_objenesis_objenesis_3_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_opendatakit_opendatakit_javarosa_2_14_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_osmdroid_osmdroid_android_5_6_4_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_commons_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_ow2_asm_asm_tree_6_0_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_api_mockito2_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_api_support_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_core_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_module_junit4_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_module_junit4_common_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_powermock_powermock_reflect_2_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_reactivestreams_reactive_streams_1_0_2_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_annotations_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_junit_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_resources_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_robolectric_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_sandbox_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_shadowapi_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_shadows_framework_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_shadows_multidex_4_0_beta_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_robolectric_utils_4_0_1_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_26_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__tools_fastlane_screengrab_1_1_0_aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/libs/httpclientandroidlib-4.5.2-2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/proguard-rules.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/all-widgets.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/fieldlist-updates.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/external-csv-search-produce.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/external-csv-search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/fieldListInFieldList.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/fieldListWithQuestionAndRegularGroupInside.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/fieldListWithQuestionsAndRegularGroupsInside.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/regularGroupWithFieldListGroupInside.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/regularGroupWithQuestionAndRegularGroupInside.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/regularGroupWithQuestionsAndRegularGroupInside.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/simpleFieldList.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/threeNestedFieldListGroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/forms/formNavigationTestForms/twoNestedRegularGroups.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/guidance_hint_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/assets/intent-group.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/AllWidgetsFormTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/FormNavigationTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/GuidanceHintFormTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/ResetAppStateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/SNITest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/SharedPreferencesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/SmsSubmissionMemoryTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/dao/FormsDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/dao/InstancesDaoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/externalintents/ExportedActivitiesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/externalintents/ExportedActivityTestRule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/externalintents/FormChooserListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/externalintents/FormEntryActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/externalintents/InstanceChooserListTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/externalintents/MainMenuActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/externalintents/SplashScreenActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/formentry/ExternalCsvSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/formentry/FieldListUpdateTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/formentry/FormNavigationButtonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/formentry/IntentGroupTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/settings/QrCodeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/tasks/AuditEventSaveTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/tasks/DownloadFormListTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/tasks/InstanceServerUploaderTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/test/CustomMatchers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/test/FormLoadingUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/test/MockedServerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/test/TestUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/utilities/BitmapScaledToDisplayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/utilities/CollectServerClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/utilities/CustomSQLiteQueryBuilderTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/utilities/DateTimeUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/utilities/FormIndexSavepointTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/utilities/ImageConverterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/debug/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/open_source_licenses.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/assets/svg_map_helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/ic_launcher-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/iconochariotnew-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/AboutActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/AndroidShortcuts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/AppListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/BaseGeoMapActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/BearingActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/CaptureSelfieActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/CaptureSelfieActivityNewApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/CaptureSelfieVideoActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/CaptureSelfieVideoActivityNewApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/CollectAbstractActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/DirectionsJSONParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/DrawActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/EjecutarWebApi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/Engine_util.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FileManagerTabs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormChooserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormDownloadList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormHierarchyActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/GeoPointActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/GeoPointMapActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/GeoPolyActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/GoogleDriveActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/GoogleSheetsUploaderActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/HttpManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/InjectableActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/InstanceChooserList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/InstanceListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/InstanceUploaderActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/InstanceUploaderListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/MainActivityllamadas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/MainMenuActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/NotificationActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/ScannerWithFlashlightActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/SimpleDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/SplashScreenActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/ThreadEnvio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/ViewOnlyFormHierarchyActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/WebViewActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/configuracion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/informacionpuntoapp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/item_category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/item_detalle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/principal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/viewmodels/FormDownloadListViewModel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/AboutListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/AbstractSelectListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/FileArrayAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/FormDownloadListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/HierarchyListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/IconMenuListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/InstanceListCursorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/InstanceUploaderAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/RankingListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/SelectMultipleListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/SelectOneListAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/SortDialogAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/ViewPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/adapters/model/IconMenuItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/application/Collect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/application/TestCollect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dao/FormsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dao/InstancesDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dao/ItemsetDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dao/helpers/ContentResolverHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dao/helpers/FormsDaoHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dao/helpers/InstancesDaoHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/BaseDatosEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/Branch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/BranchSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/Capania.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/CodigoSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/CodigosNuevos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/ConfiguracionDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/ConfiguracionSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/CuentaSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/EstadoEditar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/EstadoFormularioSession.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/EstadosFormulario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/Entidades/FiltrosBusqueda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/BaseDatosEngine/EstructuraBD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/DatabaseContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/ItemsetDbAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/helpers/FormsDatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/database/helpers/InstancesDatabaseHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dto/Form.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/dto/Instance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/events/ReadPhoneStatePermissionRxEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/events/RxEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/events/RxEventBus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/events/SmsRxEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/BadUrlException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/EncryptionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/ExternalDataException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/ExternalParamsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/FormException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/GDriveConnectionException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/InvalidSyntaxException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/JavaRosaException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/exception/MultipleFoldersFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalAnswerResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalAppsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalDataHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalDataManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalDataManagerImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalDataReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalDataReaderImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalDataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalSQLiteOpenHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/ExternalSelectChoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/handler/ExternalDataHandlerBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/handler/ExternalDataHandlerPull.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/handler/ExternalDataHandlerSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/external/handler/ExternalDataSearchType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/Activos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/AppListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/Camera2Fragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/Camera2VideoFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/DataManagerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/EstadosFinalizados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/EstadosFormularios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/FileManagerFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/Finalizados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/FormListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/FormManagerList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/InstanceListFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/MediaLoadingFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/ShowQRCodeFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/BikramSambatDatePickerDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/CopticDatePickerDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/CustomDatePickerDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/ErrorDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/EthiopianDatePickerDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/FormLoadingDialogFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/IslamicDatePickerDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/LocationProvidersDisabledDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/MovingBackwardsDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/MyanmarDatePickerDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/NumberPickerDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/ProgressDialogFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/RankingWidgetDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/ResetSettingsResultDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/dialogs/SimpleDialog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/fragments/mapa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/CollectServerClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/HttpClientConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/HttpCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/HttpCredentialsInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/HttpGetResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/HttpHeadResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/HttpPostResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/OkHttpConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/http/OpenRosaHttpInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/injection/DaggerUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/injection/config/AppDependencyComponent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/injection/config/AppDependencyModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/jobs/CollectJobCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/jobs/SmsSenderJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/ActionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/AdvanceToNextListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/AudioPlayListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/DeleteFormsListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/DeleteInstancesListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/DiskSyncListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/DoubleClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/DownloadFormsTaskListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/FormDownloaderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/FormListDownloaderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/FormLoaderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/FormSavedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/GoogleDriveFormDownloadListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/InstanceUploaderListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/OnBackPressedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/PermissionListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/RecyclerViewClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/Result.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/SavePointListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/TaskListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/ThousandsSeparatorTextWatcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/listeners/WidgetValueChangedListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/location/client/AndroidLocationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/location/client/BaseLocationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/location/client/GoogleLocationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/location/client/LocationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/location/client/LocationClients.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/AdapterDetalle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/AdapterItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/AuditConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/AuditEvent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/DatePickerDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/DetallesFormulario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/DriveListItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/FileReference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/FileReferenceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/FormController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/FormDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/FormInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/HierarchyElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/ImmutableDisplayableQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/ManifestFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/MediaFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/PropertyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/logic/Resultado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/map/GoogleMapFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/map/MapFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/map/MapPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/map/MapboxMapFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/map/MapboxUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/map/OsmMapFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/mapboxsdk/MapFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/AdminAndGeneralKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/AdminKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/AdminPreferencesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/AdminPreferencesFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/AdminSharedPreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/AggregatePreferencesAdder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/AutoSendPreferenceMigrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/BasePreferenceFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/DisabledPreferencesRemover.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/ExtendedCheckboxPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/ExtendedEditTextPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/ExtendedPreferenceCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/FormManagementPreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/FormMetadataFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/FormMetadataMigrator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/GeneralKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/GeneralPreferencesFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/GeneralSharedPreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/GuidanceHint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/IdentityPreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/PreferenceSaver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/PreferenceValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/PreferencesActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/ResetDialogPreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/ServerPreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/ServerPreferencesFragment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/SplashClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/UserInterfacePreferences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/filters/ControlCharacterFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/filters/WhitespaceFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/provider/FormsProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/provider/FormsProviderAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/provider/InstanceProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/provider/InstanceProviderAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/spatial/GoogleMapsMapBoxOfflineTileProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/spatial/MapHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/spatial/OsmMBTileModuleProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/spatial/OsmMBTileProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/spatial/OsmMBTileSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/spatial/TileSourceFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/AuditEventSaveTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/DeleteFormsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/DeleteInstancesTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/DiskSyncTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/DownloadFormListTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/DownloadFormsTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/FormLoaderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/InstanceGoogleSheetsUploaderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/InstanceServerUploaderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/InstanceSyncTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/InstanceUploaderTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/MediaLoadingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/ProgressNotifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/SaveFormIndexTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/SavePointTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/SaveResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/SaveToDiskTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/ServerPollingJob.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/SmsNotificationReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/SmsSender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/SmsSentBroadcastReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/SmsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/SmsSubmissionManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/contracts/SmsSubmissionManagerContract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/models/Message.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/models/SmsProgress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/sms/models/SmsSubmission.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/upload/AutoSendWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/upload/InstanceGoogleSheetsUploader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/upload/InstanceServerUploader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/upload/InstanceUploader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/upload/UploadAuthRequestedException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/upload/UploadException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ActivityAvailability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/AnimateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ApplicationConstants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/AuditEventLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/AuthDialogUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/CameraUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/CompressionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/CustomSQLiteQueryBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/CustomTabHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/DateTimeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/DependencyProvider.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/DialogUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/DocumentFetchResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/DownloadFormListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/EncryptionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/FileUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/FileUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/FormDefCache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/FormDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/FormEntryPromptUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/GeoPointUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/IconUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ImageConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/InstanceUploaderUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/LocaleHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/MediaManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/MediaUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/MediaUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/MyanmarDateUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/NotificationUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ObjectUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/PRNGFixes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/PermissionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/PlayServicesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/QRCodeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/RankingItemTouchHelperCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/RegexUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ReplaceCallback.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ResetUtility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ResponseMessageParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ScreenUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/SharedPreferencesUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/SimpleFragmentPagerAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/SnackbarUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/SoftKeyboardUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/TextUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ThemeUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ToastUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/UiUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/UnderlyingValuesConcat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/UrlUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/Validator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/VersionHidingCursorAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ViewIds.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/WebCredentialsUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/WebUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/WidgetAppearanceUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/XPathParseTool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/ZipUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/gdrive/DriveHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/gdrive/GoogleAccountsManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/utilities/gdrive/SheetsHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/AudioButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/CameraPreview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/CustomNumberPicker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/CustomWebView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/DrawView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/ExpandedHeightGridView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/MediaLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/ODKView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/ProgressBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/ScrolledToTopSpinner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/SlidingTabLayout.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/SlidingTabStrip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/views/TwoItemMultipleChoiceView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/AbstractDateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/AbstractSelectOneWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/AlignedImageWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/AnnotateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ArbitraryFileWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/AudioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/AudioWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/BarcodeWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/BaseGridWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/BaseImageWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/BearingWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/BikramSambatDateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/BooleanWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/CopticDateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/DateTimeWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/DateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/DecimalWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/DrawWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/EthiopianDateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ExDecimalWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ExIntegerWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ExPrinterWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ExStringWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/GeoPointWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/GeoShapeWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/GeoTraceWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/GridMultiWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/GridWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ImageWebViewWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ImageWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/IntegerWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/IslamicDateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ItemsWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ItemsetWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/LabelWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ListMultiWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/ListWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/MyanmarDateWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/OSMWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/QuestionWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/RangeDecimalWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/RangeIntegerWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/RangeWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/RankingWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/RatingWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectImageMapWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectMultiImageMapWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectMultiWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectMultipleAutocompleteWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectOneImageMapWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectOneSearchWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectOneWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectTextWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SelectWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SignatureWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SpinnerMultiWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/SpinnerWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/StringNumberWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/StringWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/TimeWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/TriggerWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/UrlWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/VideoWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/WidgetFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/interfaces/BinaryWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/interfaces/ButtonWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/interfaces/FileWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/interfaces/MultiChoiceWidget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/interfaces/Widget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/odk/collect/android/widgets/warnings/SpacesInUnderlyingValuesWarning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/logo-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/logoch-web.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/fade_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/fade_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/popup_hide.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/popup_show.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/push_left_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/push_left_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/push_right_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/anim/push_right_out.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/color/dark_theme_tint_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/color/light_theme_tint_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/ic_message_text_outline_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-hdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_message_text_outline_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/ic_notes_white_png.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-mdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v21/action_bar_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v21/actualizruta.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v21/formulario.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-v21/llamartef.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/ic_message_text_outline_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xhdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/actualizarnuevo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/amarrillo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/formnuevo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/ic_message_text_outline_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/iconoch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/iconochariotnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxhdpi/phonecall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxxhdpi/ic_message_text_outline_white_24dp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxxhdpi/morado.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxxhdpi/notes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxxhdpi/notes2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable-xxxhdpi/visibility_off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/arrow_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/azul.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/downloadldpi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/empty.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/expander_ic_right.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/form_state_blank.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/form_state_finalized.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/form_state_saved.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/form_state_sending.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/form_state_submission_failed.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/form_state_submitted.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_access_time.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_add_circle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_add_location.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_add_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_arrow_drop_down.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_assignment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_assignment_late.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_assignment_turned_in.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_attachment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_backspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_cancel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_clear_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_close.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_cloud.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_color_lens_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_crosshairs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_delete.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_distance.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_distance_wrapped.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_face.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_fast_forward_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_fast_rewind_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_folder.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_folder_open.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_forum.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_get_accounts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_layers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_map_point.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_menu_goto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_menu_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_mic.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_my_location.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_navigate_back.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_navigate_back_wrapped.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_navigate_forward.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_navigate_forward_wrapped.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_notes_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_pause_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_pause_36.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_phone.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_phonelink_setup.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_photo_camera.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_place_black.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_play_arrow_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_repeat.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_review_rate.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_save.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_save_white.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_search.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_share.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_sms.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_sort.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_sort_by_alpha.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_star.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_star_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_stars.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ic_website.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/iconocha.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/iconochariot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/information_outline.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/informe.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/linea_separacion.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/list_item_divider.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/mas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/naranja.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ok.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/ok1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/pend.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/pendiente.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/phone.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/sd.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/select_item_border.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/shadow_up.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/thumb.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/verde.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/wasp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/waspt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/drawable/whasapt.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/roboto.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/roboto_black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/roboto_bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/roboto_light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/roboto_medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/font/roboto_thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout-v17/range_widget_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout-v21/activity_chooser_list_status.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout-v21/inventariomovimiento.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout-v21/toolbar_action_bar_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout-v21/two_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/about_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/about_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_capture_selfie.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_capture_selfie_new_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_capture_selfie_video_new_api.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_configuracion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_custom_scanner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_item_category.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_item_detalle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_main_activityllamadas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_principal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/activity_web_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/bottom_sheet.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_configuracion.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_main_activityllamadas.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/content_principal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/custom_barcode_scanner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/custom_date_picker_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/dialogbox_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/draw_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/file_manager_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/file_manager_tabs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_chooser_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_chooser_list_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_chooser_list_item_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_chooser_list_item_multiple_choice.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_chooser_list_item_text.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_download_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_entry.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/form_entry_end.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_activos.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_camera2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_camera2video.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_mapa.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/fragment_terminados.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/geopoint_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/geopoly_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/geopoly_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/google_drive_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/help_text_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/hierarchy_element.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/hierarchy_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/informacionpunto.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/instance_uploader_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/item_view_option.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/main_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/media_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/media_player_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/named_view_ids.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/nested_scroll_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/number_picker_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/osm_map_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/password_dialog_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/progress_bar_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/quick_select_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/range_widget_horizontal.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/range_widget_vertical.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/ranking_item.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/recycler_view.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/reset_dialog_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/select_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/server_auth_dialog.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/show_qrcode_fragment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/sort_item_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/spinner_layout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/spinner_personalizado.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/splash_screen.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/toolbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/toolbar_action_bar_shadow.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/layout/toolbar_without_progressbar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/form_hierarchy_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/form_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/instance_uploader_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/list_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/main_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/menu/settings_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/logo.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-anydpi-v26/logo_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/iconochariotnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/llamadanew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-hdpi/logoch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/iconochariotnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/llamadanew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-mdpi/logoch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/iconochariotnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/llamadanew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xhdpi/logoch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/iconochariotnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/llamadanew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxhdpi/logoch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/iconochariotnew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/llamadanew.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/logo_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/mipmap-xxxhdpi/logoch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/navigation/nav_graph.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-af/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-am/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ar/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-bn/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ca/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-cs/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-de/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-es-rSV/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-es/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-et/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-fa/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-fi/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-fr/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-hi/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-in/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-it/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ja/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ka/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-km/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ln/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-lo-rLA/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-lt/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-mg/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ml/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-mr/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ms/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-my/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ne-rNP/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-nl/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-no/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-pl/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ps/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-pt/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ro/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ru/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-si/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-sl/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-so/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-sq/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-sr/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-sv-rSE/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-sw-rKE/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-sw/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-th-rTH/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ti/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-tl-rPH/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-tl/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-tr/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-uk/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ur-rPK/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-ur/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-v21/theme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-vi/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-zh/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values-zu/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/arrays.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/attrs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/fonts.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/style.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/theme.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/values/untranslated.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/admin_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/aggregate_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/form_entry_access_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/form_management_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/form_metadata_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/general_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/google_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/identity_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/main_menu_access_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/other_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/provider_paths.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/server_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/user_interface_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/res/xml/user_settings_access_preferences.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/release/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/AllTestsSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/ShadowPlayServicesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/activities/InstanceUploaderListActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/activities/MainActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/dependencies/BikramSambatTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/event/RxEventBusTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/fakes/FakePermissionUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/http/CollectServerClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/http/mock/MockHttpClientConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/http/mock/MockHttpClientConnectionError.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/activities/BaseGeoActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/activities/GeoPointActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/activities/GeoPointMapActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/activities/GeoPolyActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/client/AndroidLocationClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/client/FakeLocationClient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/client/GoogleLocationClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/client/TestClientListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/location/client/TestLocationListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/logic/AuditConfigTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/logic/AuditEventTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/preferences/AdminPreferencesActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/preferences/AggregatePreferencesAdderTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/preferences/FormMetadataMigratorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/preferences/PreferenceSaverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/preferences/PreferenceValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/sms/SmsSenderJobTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/sms/SmsSentBroadcastReceiverTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/sms/SmsServiceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/sms/SmsSubmissionManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/sms/base/BaseSmsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/sms/base/SampleData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/support/RobolectricHelpers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/ArrayUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/AuditEventLoggerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/CompressionTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/CustomSQLiteQueryBuilderTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/DateTimeUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/DaylightSavingTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/FileUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/GeoPointUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/InstanceGoogleSheetsUploaderTaskTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/MyanmarDateUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/PermissionsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/QRCodeUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/RegexUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/TextUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/ThemeUtilsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/ValidatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/WidgetAppearanceUtilsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/gdrive/DriveHelperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/gdrive/GoogleAccountsManagerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/utilities/gdrive/SheetsHelperTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/views/MediaLayoutTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/AnnotateWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/AudioWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/BarcodeWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/BearingWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/BooleanWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/DateTimeWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/DateWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/DecimalWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/DrawWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/ExDecimalWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/ExIntegerWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/ExStringWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/GeoPointWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/GeoShapeWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/GeoTraceWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/GridMultiWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/GridWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/ImageWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/IntegerWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/ItemsetWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/ListMultiWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/ListWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/OSMWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/RangeDecimalWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/RangeIntegerWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/SelectMultiWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/SelectOneSearchWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/SelectOneWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/SignatureWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/SpinnerMultiWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/SpinnerWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/StringNumberWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/StringWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/TimeWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/TriggerWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/UrlWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/VideoWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/BinaryWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/ButtonWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/FileWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/GeneralDateTimeWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/GeneralExStringWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/GeneralSelectMultiWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/GeneralSelectOneWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/GeneralStringWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/QuestionWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/RangeWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/SelectWidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/base/WidgetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/warnings/SpacesInUnderlyingValuesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/odk/collect/android/widgets/warnings/SpacesInUnderlyingValuesWarningTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/checkstyle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/findbugs-filter.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/jacoco.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/lint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/pmd-ruleset.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/quality.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/xsl/color.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/xsl/default.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/xsl/fancy-hist.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/xsl/fancy.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/xsl/plain.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../config/xsl/summary.xsl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../fastlane/Screengrabfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/.metadata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/kotlin/com/example/flutter_app/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/res/drawable/launch_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/android/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Flutter/AppFrameworkInfo.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Flutter/Debug.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Flutter/Release.xcconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner.xcworkspace/contents.xcworkspacedata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/AppDelegate.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Base.lproj/LaunchScreen.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Base.lproj/Main.storyboard" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/ios/Runner/Runner-Bridging-Header.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/lib/main.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../flutter_app/test/widget_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/.gradle-wrapper.properties.swp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../settings.gradle" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_26" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1d8zbFK47LBN4eBVY4KhkPsXx3D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="C:/Android/sdk" />
+    <property name="device.picker.selection" value="5200e766606555a5" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDK Location" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.odk.collect.android.activities" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\bancoguayaquil\collect-1.22.4\collect_app\src\main\res\drawable-xxxhdpi" />
+      <recent name="G:\bancoguayaquil\collect-1.22.4\collect_app\src\main\res\layout-v21" />
+      <recent name="G:\bancoguayaquil\collect-1.22.4\collect_app\src\main\java\org\odk\collect\android\fragments" />
+      <recent name="G:\bancoguayaquil\collect-1.22.4\collect_app\src\main\java\org\odk\collect\android\database" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collect_app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="collect_app" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fe0c8bf-7028-4994-90c4-c2045de15f47" name="Default Changelist" comment="" />
+      <created>1571426639355</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571426639355</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="subir fuentes banco guayaquil" />
+    <option name="LAST_COMMIT_MESSAGE" value="subir fuentes banco guayaquil" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1023" y="692" key="#PSD" timestamp="1591822619225">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-1023" y="692" key="#PSD/0.0.1920.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1591822619225" />
+    <state x="-1080" y="554" key="CommitChangelistDialog2" timestamp="1591823222808">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-1080" y="554" key="CommitChangelistDialog2/0.0.1920.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1591823222808" />
+    <state x="-760" y="715" key="FileChooserDialogImpl" timestamp="1591822471513">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-760" y="715" key="FileChooserDialogImpl/0.0.1920.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1591822471513" />
+    <state x="-844" y="693" width="607" height="534" key="find.popup" timestamp="1591822458012">
+      <screen x="-1080" y="0" width="1080" height="1920" />
+    </state>
+    <state x="-844" y="693" width="607" height="534" key="find.popup/0.0.1920.1080/-1080.0.1080.1920@-1080.0.1080.1920" timestamp="1591822458012" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/InstanceServerUploaderTask.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/tasks/InstanceServerUploaderTask.java</url>
+          <line>107</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/androidTest/java/org/odk/collect/android/test/MockedServerTest.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/ServerPreferencesFragment.java</url>
+          <line>117</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/preferences/GeneralKeys.java</url>
+          <line>101</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java</url>
+          <line>1873</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java</url>
+          <line>1875</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java</url>
+          <line>1032</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java</url>
+          <line>2866</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java</url>
+          <line>2849</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java</url>
+          <line>2848</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/odk/collect/android/activities/FormEntryActivity.java</url>
+          <line>2843</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/Android/Sdk/sources/android-27/android/app/ActivityThread.java</url>
+          <line>6126</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://D:/Android/Sdk/sources/android-27/android/app/ActivityThread.java</url>
+          <line>2017</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>objBranchSeccion</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>objBranchSeccion.getE_code()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>e.getDisplayMessage()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outcome.messagesByInstanceId.toString()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(outcome.messagesByInstanceId.toString().equals(&quot;{3=full submission upload was successful!}&quot;))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>if(outcome.messagesByInstanceId.toString().equals(&quot;{3=full submission upload was successful!}&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outcome.messagesByInstanceId.get(&quot;key&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outcome.messagesByInstanceId.get(0)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outcome.messagesByInstanceId</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>outcome.messagesByInstanceId.get(&quot;Key&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

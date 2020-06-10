@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activities.configuracion"
+    tools:showIn="@layout/activity_configuracion">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_margin="15dp"
+        tools:ignore="MissingConstraints">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    tools:ignore="MissingConstraints">
+    <TextView
+        android:id="@+id/textView3"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/roboto_light"
+        android:text="SELECCIÓN "
+
+        android:textSize="18sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="26dp"
+
+        android:layout_marginTop="25dp"
+        android:fontFamily="@font/roboto_bold"
+        android:text="CAMPAÑA"
+        android:textColor="#88379c"
+        android:textSize="18sp"
+        android:textStyle="bold" />
+</LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            tools:ignore="MissingConstraints"
+            android:weightSum="2">
+
+            <Spinner
+                android:id="@+id/cmbcampaniaCL"
+                android:layout_width="0dp"
+                android:layout_weight="1.8"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:background="@android:drawable/btn_dropdown"
+                />
+
+            <Button
+                android:id="@+id/btncargarlocalesCL"
+                android:layout_width="0dp"
+                android:layout_weight=".2"
+                android:layout_height="40dp"
+                android:background="@drawable/downloadldpi"
+                android:layout_marginTop="25dp"
+                />
+
+        </LinearLayout>
+  <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/linea_separacion"
+      android:layout_marginTop="25dp"
+            />
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            tools:ignore="MissingConstraints">
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:fontFamily="@font/roboto_light"
+                android:text="CARGA "
+                android:textSize="18sp"
+                />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+                android:fontFamily="@font/roboto_bold"
+                android:text="LOCALES"
+                android:layout_marginTop="25dp"
+                android:textColor="#88379c"
+                android:textSize="18sp"
+                android:textStyle="bold"
+                />
+
+        </LinearLayout>
+        <Button
+            android:id="@+id/btncargarlocalcuenta"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="5dp"
+            android:background="@android:drawable/bottom_bar"
+            android:backgroundTint="@color/common_signin_btn_light_text_focused"
+            android:elevation="6dp"
+            android:text="CARGAR LOCALES"
+            android:textColor="@color/common_signin_btn_dark_text_default"
+            />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="12dp"
+            android:layout_marginTop="12dp"
+            android:src="@drawable/linea_separacion"
+          />
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="MissingConstraints">
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="25dp"
+            android:fontFamily="@font/roboto_light"
+            android:text="BUSCAR "
+            android:textSize="18sp"
+           />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/roboto_bold"
+            android:text="POR:"
+            android:layout_marginTop="25dp"
+            android:textColor="#88379c"
+            android:textSize="18sp"
+            android:textStyle="bold"
+           />
+
+    </LinearLayout>
+        <RadioGroup
+            android:id="@+id/radioGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="44dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginStart="16dp"
+            android:layout_marginTop="5dp"
+            android:checkedButton="@+id/radioButton"
+            android:orientation="horizontal"
+            >
+
+            <RadioButton
+                android:id="@+id/radcodigo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_weight="1"
+                android:buttonTint="#88379c"
+                android:checked="true"
+                android:fontFamily="@font/roboto"
+                android:text="CÓDIGO"
+                android:textSize="18sp"
+                app:layout_constraintTop_toBottomOf="@+id/btncargarlocalcuenta"
+                tools:layout_editor_absoluteX="106dp" />
+
+
+            <RadioButton
+                android:id="@+id/radnombre"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="0dp"
+                android:layout_weight="1"
+                android:buttonTint="#88379c"
+                android:checked="false"
+                android:fontFamily="@font/roboto"
+                android:text="NOMBRE"
+                android:textSize="18sp"
+                app:layout_constraintTop_toBottomOf="@+id/radioButton"
+                tools:layout_editor_absoluteX="83dp" />
+        </RadioGroup>
+        <TextView
+            android:id="@+id/IDt"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="V2.24"
+            android:fontFamily="@font/roboto_bold"
+            android:textColor="#88379c"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            />
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="150dp"
+            android:layout_marginEnd="20dp"
+            android:layout_marginStart="20dp"
+            android:layout_marginTop="74dp"
+            android:src="@drawable/iconochariot"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/radioGroup" />
+</LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>
